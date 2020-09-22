@@ -16,7 +16,7 @@
 
 介绍IDE环境搭建、常用命令行、编译方法、基本语法、第三方包的引入以及脚手架代码的大致结构。
 基本语法不需要占用过多课上时间，提供网址课后学习+考核。
-如果有类似Dart的速查表(https://dart.cn/codelabs/dart-cheatsheet)是最好的，特别适合有语言基础的学员。
+如果有类似[Dart的速查表](https://dart.cn/codelabs/dart-cheatsheet)是最好的，特别适合有语言基础的学员。
 
 **第2-3课时：**
 
